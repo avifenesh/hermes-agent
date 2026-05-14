@@ -157,6 +157,7 @@ const sidebars: SidebarsConfig = {
         'integrations/index',
         'integrations/providers',
         'user-guide/features/mcp',
+        'integrations/community-mcp-servers',
         'user-guide/features/acp',
         'user-guide/features/api-server',
         'user-guide/features/honcho',
